@@ -31,12 +31,12 @@
 
 # SARSA using Q-learning
 
+You can find the code for results below [here](https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Q-learning_and_SARSA_on_maze.ipynb). In which, we will collect the rewards for 5 runs and plot them together to see any patterns.
+
 <p float="left">
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/input%20maze.png" width="200" height="200" />
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/output%20maze.png" width="200" height="200"/> 
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Q-learning%20and%20SARASA.png" width="400" height="200" />
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/input%20maze.png" width="300" height="300" />
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/output%20maze.png" width="300" height="300"/> 
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Q-learning%20and%20SARASA.png" width="400" height="300" />
 </p>
 
-We will collect the rewards for 5 runs and plot them together to see any underlying patterns.
-
-![image](https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Q-learning%20and%20SARASA.png)
+We see the common pattern that the rewards are initially bad, but as the number of episodes increases, the agent gets better and the reward reach an asymptote.
