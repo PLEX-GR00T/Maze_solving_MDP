@@ -11,8 +11,8 @@
 ## 2) Q-learning
 
 <p float="left">
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Q-linear.png" width="300" />
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/q-exponential.png" width="300" /> 
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Q-linear.png" width="500" />
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/q-exponential.png" width="500" /> 
 </p>
 
 ## 3) Double-Q-learning
