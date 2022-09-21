@@ -11,22 +11,22 @@
 ## 2) Q-learning
 
 <p float="left">
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Q-linear.png" width="500" height="300"/>
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/q-exponential.png" width="500" height="300" /> 
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Q-linear.png" width="450" height="300"/>
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/q-exponential.png" width="450" height="300" /> 
 </p>
 
 ## 3) Double-Q-learning
 
 <p float="left">
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Double%20q-linear.png" width="500" height="300" />
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Double%20q-exponential.png" width="500" height="300" /> 
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Double%20q-linear.png" width="450" height="300" />
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Double%20q-exponential.png" width="450" height="300" /> 
 </p>
 
 ## 4) SARSA
 
 <p float="left">
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/SARSA%20Linear.png" width="500" height="300" />
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/SARSA%20Exponential.png" width="500" height="300" /> 
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/SARSA%20Linear.png" width="450" height="300" />
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/SARSA%20Exponential.png" width="450" height="300" /> 
 </p>
 
 # SARSA using Q-learning
@@ -34,8 +34,8 @@
 You can find the code for results below [here](https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Q-learning_and_SARSA_on_maze.ipynb). In which, we will collect the rewards for 5 runs and plot them together to see any patterns.
 
 <p float="left">
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/input%20maze.png" width="300" height="300" />
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/output%20maze.png" width="300" height="300"/> 
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/input%20maze.png" width="290" height="300" />
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/output%20maze.png" width="290" height="300"/> 
   <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Q-learning%20and%20SARASA.png" width="400" height="300" />
 </p>
 
