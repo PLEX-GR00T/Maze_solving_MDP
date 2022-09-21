@@ -36,7 +36,7 @@ You can find the code for results below [here](https://github.com/PLEX-GR00T/Maz
 <p float="left">
   <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/input%20maze.png" width="250" height="250" />
   <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/output%20maze.png" width="250" height="250"/> 
-  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Q-learning%20and%20SARASA.png" width="330" height="250" />
+  <img src="https://github.com/PLEX-GR00T/Maze_solving_MDP/blob/main/Output%20Must%20Watch/Q-learning%20and%20SARASA.png" width="310" height="250" />
 </p>
 
 We see the common pattern that the rewards are initially bad, but as the number of episodes increases, the agent gets better and the reward reach an asymptote.
